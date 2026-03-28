@@ -1,0 +1,292 @@
+You are an expert C# educator and senior .NET developer with 10+ years of experience teaching C# to beginners and interview candidates.
+
+Your task is to create a complete, well-structured C# console application project for learning C# fundamentals.
+
+---
+
+## 🎯 GOAL
+
+Create a teaching-grade C# console application that covers:
+
+Main Topic: PHASE 1 — C# Language Fundamentals  
+Sub Topic: Control Flow
+
+Topics to cover:
+- if / else / else if
+- switch statement
+- switch expression (C# 8+)
+- for loop
+- foreach loop
+- while loop
+- do-while loop
+- break
+- continue
+- return
+- goto (avoid usage)
+
+This must be useful for:
+- Junior developers preparing for .NET interviews
+- Anyone learning C# from scratch
+- Senior devs doing a quick concept revision
+
+---
+
+## 📁 FOLDER & PROJECT STRUCTURE
+
+Create the following structure:
+
+Phase1_CSharp_Fundamentals/
+│
+└── Phase1_CSharp_Fundamentals.sln
+    │
+    └── 05_ControlFlow/
+        └── Program.cs
+
+---
+
+## 📋 STRICT CODE RULES
+
+### Rule 1 — Regions with Sequence Numbers
+
+#region 01 — if / else / else if  
+#region 02 — Nested if  
+#region 03 — switch Statement  
+#region 04 — switch Expression (C# 8+)  
+#region 05 — for Loop  
+#region 06 — foreach Loop  
+#region 07 — while Loop  
+#region 08 — do-while Loop  
+#region 09 — break  
+#region 10 — continue  
+#region 11 — return & goto (avoid)  
+
+---
+
+### Rule 2 — Comments vs Console Output
+
+COMMENTS:
+- Explain logic clearly
+- Include real-world usage + mistakes
+
+CONSOLE:
+- Only print results
+- NO explanations inside Console.WriteLine
+
+---
+
+### Rule 3 — Expected Output
+
+Every Console.WriteLine must include:
+
+// Output: ...
+
+---
+
+### Rule 4 — Real-World Analogy
+
+Every region must end with:
+
+// 🌍 Real-World Analogy block
+
+---
+
+### Rule 5 — Simple English
+
+- Explain like a senior dev teaching fresher
+- Use real-world scenarios (ATM, login, loops in reports, etc.)
+
+---
+
+## 📌 DETAILED CONTENT
+
+---
+
+### #region 01 — if / else / else if
+
+- Basic decision making
+- Multiple conditions
+
+Mistake:
+Wrong condition order
+
+Analogy:
+Traffic signal decision
+
+---
+
+### #region 02 — Nested if
+
+- if inside if
+
+Mistake:
+Too many nested conditions → hard to read
+
+Analogy:
+Security checks inside checks
+
+---
+
+### #region 03 — switch Statement
+
+- Multiple choices
+- Use case with int/string
+
+Mistake:
+Missing break
+
+Analogy:
+Menu selection system
+
+---
+
+### #region 04 — switch Expression (C# 8+)
+
+- Cleaner syntax
+- Expression-based return
+
+Mistake:
+Overcomplicating simple logic
+
+Analogy:
+Shortcut decision table
+
+---
+
+### #region 05 — for Loop
+
+- Counter-based loop
+
+Mistake:
+Infinite loop due to wrong condition
+
+Analogy:
+Repeat task fixed number of times
+
+---
+
+### #region 06 — foreach Loop
+
+- Iterate collections
+
+Mistake:
+Trying to modify collection inside loop
+
+Analogy:
+Reading items one by one
+
+---
+
+### #region 07 — while Loop
+
+- Condition-based loop
+
+Mistake:
+Condition never changes → infinite loop
+
+Analogy:
+Repeat until condition fails
+
+---
+
+### #region 08 — do-while Loop
+
+- Runs at least once
+
+Mistake:
+Using when condition may be false initially
+
+Analogy:
+Try at least once (ATM retry)
+
+---
+
+### #region 09 — break
+
+- Exit loop early
+
+Mistake:
+Breaking wrong loop
+
+Analogy:
+Emergency stop button
+
+---
+
+### #region 10 — continue
+
+- Skip current iteration
+
+Mistake:
+Skipping important logic
+
+Analogy:
+Skip one step, continue process
+
+---
+
+### #region 11 — return & goto (avoid)
+
+- return → exit method
+- goto → jump (avoid)
+
+Mistake:
+Using goto leads to messy code
+
+Analogy:
+return = exit room  
+goto = jumping randomly between rooms
+
+---
+
+## 🧪 CHECKLIST
+
+Each region must have:
+
+[ ] Variables declared  
+[ ] Example code  
+[ ] Mistake explained  
+[ ] Output comment  
+[ ] Real-world analogy  
+[ ] Separator line  
+
+Console.WriteLine("\n========================================\n");
+
+---
+
+## ✅ PROGRAM STRUCTURE
+
+Add header:
+
+// ============================================================
+// Project  : Phase 1 - C# Language Fundamentals
+// Topic    : Control Flow
+// Purpose  : Interview preparation & learning
+// Standard : C# 10 / .NET 6+
+// ============================================================
+
+Use top-level statements
+
+End:
+
+Console.WriteLine("\n✅ All topics completed! Press any key to exit...");
+Console.ReadKey();
+
+---
+
+## 🚫 DO NOT
+
+- No theory inside Console.WriteLine
+- No advanced patterns
+- No skipping analogies
+- No unclear variable names
+
+---
+
+## 📦 FINAL DELIVERABLE
+
+1. Folder structure  
+2. .sln file  
+3. Console project  
+4. Program.cs with 11 regions  
+5. Clean console output  
+6. Must compile without errors

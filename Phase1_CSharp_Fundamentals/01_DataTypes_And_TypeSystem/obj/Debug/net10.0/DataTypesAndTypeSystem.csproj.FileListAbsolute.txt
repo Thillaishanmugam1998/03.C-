@@ -12,3 +12,4 @@ D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_Type
 D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.pdb
 D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.genruntimeconfig.cache
 D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\ref\DataTypesAndTypeSystem.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.sourcelink.json

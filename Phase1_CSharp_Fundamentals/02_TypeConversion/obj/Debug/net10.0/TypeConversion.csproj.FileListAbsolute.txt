@@ -12,3 +12,4 @@ D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\02_TypeConversion\bin
 D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\02_TypeConversion\bin\Debug\net10.0\TypeConversion.pdb
 D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\02_TypeConversion\obj\Debug\net10.0\TypeConversion.genruntimeconfig.cache
 D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\02_TypeConversion\obj\Debug\net10.0\ref\TypeConversion.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\02_TypeConversion\obj\Debug\net10.0\TypeConversion.sourcelink.json

@@ -1,0 +1,15 @@
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.AssemblyInfoInputs.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.AssemblyInfo.cs
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.sourcelink.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\refint\StringAndStringBuilder.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.pdb
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\bin\Debug\net10.0\StringAndStringBuilder.exe
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\bin\Debug\net10.0\StringAndStringBuilder.deps.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\bin\Debug\net10.0\StringAndStringBuilder.runtimeconfig.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\bin\Debug\net10.0\StringAndStringBuilder.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\bin\Debug\net10.0\StringAndStringBuilder.pdb
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\StringAndStringBuilder.genruntimeconfig.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\03_String_And_StringBuilder\obj\Debug\net10.0\ref\StringAndStringBuilder.dll

@@ -1,0 +1,297 @@
+You are an expert C# educator and senior .NET developer with 10+ years of experience teaching C# to beginners and interview candidates.
+
+Your task is to create a complete, well-structured C# console application project for learning C# fundamentals.
+
+---
+
+## 🎯 GOAL
+
+Create a teaching-grade C# console application that covers:
+
+Main Topic: PHASE 1 — C# Language Fundamentals  
+Sub Topic: Operators
+
+Topics to cover:
+- Arithmetic Operators (+, -, *, /, %)
+- Relational Operators (==, !=, >, <, >=, <=)
+- Logical Operators (&&, ||, !)
+- Bitwise Operators (&, |, ^, ~, <<, >>)
+- Ternary Operator (?:)
+- Null-coalescing Operators (??, ??=)
+- Null-conditional Operator (?.)
+
+This must be useful for:
+- Junior developers preparing for .NET interviews
+- Anyone learning C# from scratch
+- Senior devs doing a quick concept revision
+
+---
+
+## 📁 FOLDER & PROJECT STRUCTURE
+
+Create the following structure:
+
+Phase1_CSharp_Fundamentals/
+│
+└── Phase1_CSharp_Fundamentals.sln
+    │
+    └── 04_Operators/
+        └── Program.cs
+
+---
+
+## 📋 STRICT CODE RULES
+
+### Rule 1 — Regions with Sequence Numbers
+
+#region 01 — Arithmetic Operators  
+#region 02 — Relational Operators  
+#region 03 — Logical Operators  
+#region 04 — Short-Circuit Behavior (&& vs &)  
+#region 05 — Bitwise Operators  
+#region 06 — Shift Operators (<<, >>)  
+#region 07 — Ternary Operator (?:)  
+#region 08 — Null-Coalescing (??)  
+#region 09 — Null-Coalescing Assignment (??=)  
+#region 10 — Null-Conditional (?.)  
+#region 11 — Combined Real-World Scenarios  
+
+---
+
+### Rule 2 — Comments vs Console Output
+
+COMMENTS:
+- Explain concepts clearly
+- Include real-world usage + common mistakes
+
+CONSOLE:
+- Only show values/results
+- DO NOT print explanations
+
+---
+
+### Rule 3 — Expected Output
+
+Every Console.WriteLine must include:
+
+// Output: ...
+
+---
+
+### Rule 4 — Real-World Analogy
+
+Every region must end with:
+
+// 🌍 Real-World Analogy block
+
+---
+
+### Rule 5 — Simple English
+
+- Explain like a senior dev teaching a fresher
+- Use real-world scenarios (banking, login systems, APIs)
+
+---
+
+## 📌 DETAILED CONTENT
+
+---
+
+### #region 01 — Arithmetic Operators
+
+- +, -, *, /, %
+- Show integer division vs decimal division
+
+Mistake:
+int / int = int (not decimal)
+
+Analogy:
+Basic calculator operations
+
+---
+
+### #region 02 — Relational Operators
+
+- ==, !=, >, <, >=, <=
+- Returns bool
+
+Mistake:
+Confusing = and ==
+
+Analogy:
+Comparison like exam marks
+
+---
+
+### #region 03 — Logical Operators
+
+- && (AND), || (OR), ! (NOT)
+
+Show:
+true/false combinations
+
+Mistake:
+Wrong condition grouping
+
+Analogy:
+Login system (username AND password)
+
+---
+
+### #region 04 — Short-Circuit Behavior (&& vs &)
+
+- && → stops early
+- & → evaluates both sides
+
+Show difference using method call
+
+Mistake:
+Using & instead of &&
+
+Analogy:
+Security check — stop if first fails
+
+---
+
+### #region 05 — Bitwise Operators
+
+- &, |, ^, ~
+
+Show binary examples
+
+Mistake:
+Confusing logical vs bitwise
+
+Analogy:
+Switches (ON/OFF bits)
+
+---
+
+### #region 06 — Shift Operators (<<, >>)
+
+- Left shift = multiply by 2
+- Right shift = divide by 2
+
+Mistake:
+Not understanding bit movement
+
+Analogy:
+Shifting digits left/right
+
+---
+
+### #region 07 — Ternary Operator (?:)
+
+- condition ? true : false
+
+Mistake:
+Overusing nested ternary
+
+Analogy:
+Quick decision shortcut
+
+---
+
+### #region 08 — Null-Coalescing (??)
+
+- value ?? default
+
+Mistake:
+Not handling nulls
+
+Analogy:
+Fallback option
+
+---
+
+### #region 09 — Null-Coalescing Assignment (??=)
+
+- assign only if null
+
+Mistake:
+Overwriting values accidentally
+
+Analogy:
+Fill only if empty
+
+---
+
+### #region 10 — Null-Conditional (?.)
+
+- Safe navigation
+
+Example:
+user?.Name
+
+Mistake:
+NullReferenceException
+
+Analogy:
+Check before access
+
+---
+
+### #region 11 — Combined Real-World Scenarios
+
+Include:
+
+- Login validation (&&)
+- Default values (??)
+- Safe API calls (?.)
+- Marks grading (ternary)
+- Bit flags example
+
+---
+
+## 🧪 CHECKLIST
+
+Each region must have:
+
+[ ] Variables declared  
+[ ] Example code  
+[ ] Mistake explained  
+[ ] Output comment  
+[ ] Real-world analogy  
+[ ] Separator line  
+
+Console.WriteLine("\n========================================\n");
+
+---
+
+## ✅ PROGRAM STRUCTURE
+
+Add header:
+
+// ============================================================
+// Project  : Phase 1 - C# Language Fundamentals
+// Topic    : Operators
+// Purpose  : Interview preparation & learning
+// Standard : C# 10 / .NET 6+
+// ============================================================
+
+Use top-level statements
+
+End:
+
+Console.WriteLine("\n✅ All topics completed! Press any key to exit...");
+Console.ReadKey();
+
+---
+
+## 🚫 DO NOT
+
+- No explanations inside Console.WriteLine
+- No advanced concepts
+- No skipping analogies
+- No unclear variable names
+
+---
+
+## 📦 FINAL DELIVERABLE
+
+1. Folder structure  
+2. .sln file  
+3. Console project  
+4. Program.cs with 11 regions  
+5. Clean output  
+6. Must compile successfully
