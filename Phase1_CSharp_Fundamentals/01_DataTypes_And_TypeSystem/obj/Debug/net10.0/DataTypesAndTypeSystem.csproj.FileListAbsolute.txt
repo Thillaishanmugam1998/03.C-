@@ -1,0 +1,14 @@
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.AssemblyInfoInputs.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.AssemblyInfo.cs
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.csproj.CoreCompileInputs.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\bin\Debug\net10.0\DataTypesAndTypeSystem.exe
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\bin\Debug\net10.0\DataTypesAndTypeSystem.deps.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\bin\Debug\net10.0\DataTypesAndTypeSystem.runtimeconfig.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\bin\Debug\net10.0\DataTypesAndTypeSystem.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\bin\Debug\net10.0\DataTypesAndTypeSystem.pdb
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\refint\DataTypesAndTypeSystem.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.pdb
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\DataTypesAndTypeSystem.genruntimeconfig.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\01_DataTypes_And_TypeSystem\obj\Debug\net10.0\ref\DataTypesAndTypeSystem.dll
