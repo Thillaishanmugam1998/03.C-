@@ -1,0 +1,248 @@
+You are an expert C# educator and senior .NET developer with 10+ years of experience teaching C# to beginners and interview candidates.
+
+Your task is to create a complete, well-structured C# console application project for learning C# fundamentals.
+
+---
+
+## 🎯 GOAL
+
+Create a teaching-grade C# console application that covers:
+
+Main Topic: PHASE 1 — C# Language Fundamentals  
+Sub Topic: Arrays
+
+Topics to cover:
+- 1D Arrays
+- 2D Arrays
+- Jagged Arrays
+- Array class methods (Sort, Reverse, Copy, IndexOf)
+- Array vs List performance
+
+This must be useful for:
+- Junior developers preparing for .NET interviews
+- Anyone learning C# from scratch
+- Senior devs doing a quick concept revision
+
+---
+
+## 📁 FOLDER & PROJECT STRUCTURE (IMPORTANT CHANGE)
+
+⚠️ Instead of putting everything in Program.cs, create CLEAN modular structure:
+
+Phase1_CSharp_Fundamentals/
+│
+└── Phase1_CSharp_Fundamentals.sln
+    │
+    └── 07_Arrays/
+        │
+        ├── Program.cs                  ← Entry point (only method calls)
+        │
+        ├── ArrayBasics.cs
+        ├── MultiDimensionalArrays.cs
+        ├── JaggedArrays.cs
+        ├── ArrayMethods.cs
+        └── ArrayVsListPerformance.cs
+
+---
+
+## 📌 PROGRAM.CS RULE
+
+Program.cs should ONLY call methods:
+
+Example:
+
+ArrayBasics.Run();
+MultiDimensionalArrays.Run();
+JaggedArrays.Run();
+ArrayMethods.Run();
+ArrayVsListPerformance.Run();
+
+DO NOT write teaching logic inside Program.cs
+
+---
+
+## 📋 STRICT CODE RULES (APPLIES TO EACH .cs FILE)
+
+### Rule 1 — Regions with Sequence Numbers
+
+Each file must contain regions like:
+
+#region 01 — Topic Name
+
+---
+
+### Rule 2 — Comments vs Console Output
+
+COMMENTS:
+- Explain clearly
+- Include mistakes + theory
+
+CONSOLE:
+- Only output values/results
+
+---
+
+### Rule 3 — Expected Output
+
+Every Console.WriteLine must include:
+
+// Output: ...
+
+---
+
+### Rule 4 — Real-World Analogy
+
+Each region must end with:
+
+// 🌍 Real-World Analogy block
+
+---
+
+### Rule 5 — Simple English
+
+- Teach like senior dev to fresher
+- Use real-world examples (inventory, grid, reports)
+
+---
+
+## 📌 FILE-WISE CONTENT
+
+---
+
+## 📄 ArrayBasics.cs
+
+### #region 01 — 1D Arrays
+
+- Declare array
+- Initialize
+- Access elements
+- Loop through array
+
+Mistake:
+Index out of range
+
+Analogy:
+List of student marks
+
+---
+
+## 📄 MultiDimensionalArrays.cs
+
+### #region 01 — 2D Arrays
+
+- Matrix structure
+- Rows & columns
+- Nested loops
+
+Mistake:
+Confusing row/column indexes
+
+Analogy:
+Excel sheet (rows & columns)
+
+---
+
+## 📄 JaggedArrays.cs
+
+### #region 01 — Jagged Arrays
+
+- Array of arrays
+- Different sizes
+
+Mistake:
+Confusing with 2D array
+
+Analogy:
+Classrooms with different student counts
+
+---
+
+## 📄 ArrayMethods.cs
+
+### #region 01 — Sort
+
+### #region 02 — Reverse
+
+### #region 03 — Copy
+
+### #region 04 — IndexOf
+
+For each:
+- Example usage
+- Output
+
+Mistake:
+Thinking methods modify original vs new copy
+
+Analogy:
+Sorting books, reversing list, copying data
+
+---
+
+## 📄 ArrayVsListPerformance.cs
+
+### #region 01 — Array vs List
+
+- Fixed size vs dynamic
+- Performance differences
+- Memory behavior
+
+Mistake:
+Using array when size is dynamic
+
+Analogy:
+Array = fixed-size box  
+List = expandable bag
+
+---
+
+## 🧪 CHECKLIST
+
+Each file must have:
+
+[ ] Variables declared  
+[ ] Example code  
+[ ] Mistake explained  
+[ ] Output comment  
+[ ] Real-world analogy  
+[ ] Separator line  
+
+
+---
+
+## ✅ PROGRAM STRUCTURE
+
+Program.cs header:
+
+// ============================================================
+// Project  : Phase 1 - C# Language Fundamentals
+// Topic    : Arrays
+// Purpose  : Interview preparation & learning
+// Standard : C# 10 / .NET 6+
+// ============================================================
+
+End of Program.cs:
+
+Console.WriteLine("\n✅ All topics completed! Press any key to exit...");
+Console.ReadKey();
+
+---
+
+## 🚫 DO NOT
+
+- Do NOT write all logic in Program.cs
+- Do NOT skip modular structure
+- Do NOT skip analogies
+- Do NOT mix explanation in Console.WriteLine
+
+---
+
+## 📦 FINAL DELIVERABLE
+
+1. Folder structure  
+2. .sln file  
+3. Console project  
+4. Multiple .cs files (clean architecture)  
+5. Program.cs only for execution flow  
+6. Clean output  
+7. Must compile successfully

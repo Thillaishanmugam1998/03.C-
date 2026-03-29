@@ -1,0 +1,15 @@
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\bin\Debug\net10.0\Collections.exe
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\bin\Debug\net10.0\Collections.deps.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\bin\Debug\net10.0\Collections.runtimeconfig.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\bin\Debug\net10.0\Collections.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\bin\Debug\net10.0\Collections.pdb
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.AssemblyInfoInputs.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.AssemblyInfo.cs
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.csproj.CoreCompileInputs.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.sourcelink.json
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\refint\Collections.dll
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.pdb
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\Collections.genruntimeconfig.cache
+D:\01.THILLAI\02.GIT REPO\03.C-\Phase1_CSharp_Fundamentals\08_Collections\obj\Debug\net10.0\ref\Collections.dll
