@@ -1,0 +1,23 @@
+@ECommerceWebAPI_HostAddress = http://localhost:5235
+
+GET {{ECommerceWebAPI_HostAddress}}/api/products
+Accept: application/json
+
+###
+
+GET {{ECommerceWebAPI_HostAddress}}/api/products/1
+Accept: application/json
+
+###
+
+POST {{ECommerceWebAPI_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  "name": "USB-C Charger",
+  "category": "Electronics",
+  "price": 1499.00,
+  "stockQuantity": 18
+}
+
+###

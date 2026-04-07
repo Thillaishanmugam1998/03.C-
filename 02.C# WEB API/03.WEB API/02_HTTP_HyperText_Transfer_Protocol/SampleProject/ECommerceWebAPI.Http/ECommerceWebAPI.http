@@ -1,0 +1,43 @@
+@ECommerceWebAPI_HostAddress = http://localhost:5236
+
+GET {{ECommerceWebAPI_HostAddress}}/api/products
+Accept: application/json
+
+###
+
+GET {{ECommerceWebAPI_HostAddress}}/api/products/1
+Accept: application/json
+
+###
+
+POST {{ECommerceWebAPI_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  "name": "USB-C Charger",
+  "category": "Electronics",
+  "price": 1499.00,
+  "stockQuantity": 18
+}
+
+###
+
+PUT {{ECommerceWebAPI_HostAddress}}/api/products/2
+Content-Type: application/json
+
+{
+  "name": "Mechanical Keyboard - RGB",
+  "category": "Electronics",
+  "price": 2999.00,
+  "stockQuantity": 10
+}
+
+###
+
+DELETE {{ECommerceWebAPI_HostAddress}}/api/products/3
+
+###
+
+HEAD {{ECommerceWebAPI_HostAddress}}/api/products/1
+
+###

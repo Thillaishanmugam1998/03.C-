@@ -1,0 +1,23 @@
+**************************************************
+ASP.NET Core Web API – Basics
+**************************************************
+Introduction to ASP.NET Core Web API
+HTTP (HyperText Transport Protocol)
+Creating Project using .NET Core CLI
+Testing with Postman
+Creating Project in Visual Studio
+Default Files and Folders
+Project File (.csproj)
+Main Method / Program.cs
+Controllers
+Models
+Services
+AppSettings.json
+In-Process Hosting Model
+Kestrel Web Server
+Out-of-Process Hosting Model
+Hosting Model Interview Q&A
+Dependency Injection
+Singleton vs Scoped vs Transient
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
