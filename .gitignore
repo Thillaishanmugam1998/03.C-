@@ -1,4 +1,7 @@
+**/.vs/
 **/bin/
 **/obj/
+**/.dotnet/
 **/.dotnet_cli/
 *.user
+*.suo
