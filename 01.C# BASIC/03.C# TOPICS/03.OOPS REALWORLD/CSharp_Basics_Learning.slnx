@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/01_Encapsulation/" />
+  <Folder Name="/01_Encapsulation/ConsoleApp/">
+    <Project Path="01_Encapsulation/ConsoleApp/EncapsulationRealTimeExample/EncapsulationRealTimeExample.csproj" />
+  </Folder>
+  <Folder Name="/02_Abstraction/" />
+  <Folder Name="/02_Abstraction/ConsoleApp/">
+    <Project Path="02_Abstraction/ConsoleApp/AbstractionRealTimeExample/AbstractionRealTimeExample.csproj" />
+  </Folder>
+  <Folder Name="/03_Inheritance/" />
+  <Folder Name="/03_Inheritance/ConsoleApp/">
+    <Project Path="03_Inheritance/ConsoleApp/InheritanceRealTimeExample/InheritanceRealTimeExample.csproj" />
+  </Folder>
+  <Folder Name="/04_Polymorphism/" />
+  <Folder Name="/04_Polymorphism/ConsoleApp/">
+    <Project Path="04_Polymorphism/ConsoleApp/PolymorphismRealTimeExample/PolymorphismRealTimeExample.csproj" />
+  </Folder>
+  <Folder Name="/05_Interface/" />
+  <Folder Name="/05_Interface/ConsoleApp/">
+    <Project Path="05_Interface/ConsoleApp/InterfaceRealTimeExample/InterfaceRealTimeExample.csproj" />
+  </Folder>
+  <Folder Name="/06_AbstractClass/" />
+  <Folder Name="/06_AbstractClass/ConsoleApp/">
+    <Project Path="06_AbstractClass/ConsoleApp/AbstractClassRealTimeExample/AbstractClassRealTimeExample.csproj" />
+  </Folder>
+</Solution>

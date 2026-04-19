@@ -1,0 +1,5 @@
+@ProjectStructureSample_HostAddress = http://localhost:5264
+
+### GET ALL EMPLOYEES
+GET {{ProjectStructureSample_HostAddress}}/api/employees
+Accept: application/json

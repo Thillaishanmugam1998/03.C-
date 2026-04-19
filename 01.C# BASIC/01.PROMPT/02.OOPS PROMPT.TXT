@@ -1,0 +1,90 @@
+I have a list of C# topics that I want to learn in a structured, project-based approach.
+
+First, create a new blank .NET solution with the name:
+"CSharp_Basics_Learning"
+
+Then, process the topics ONE BY ONE in sequence (do NOT generate everything at once).
+
+Here is the topic list:
+
+02 OOPs in C#
+1.Object Oriented Programming (OOPs)
+2.Class and Objects
+3.Constructors
+4.Types of Constructors
+5.Why We Need Constructors
+6.Static vs Non-Static Constructors
+7.Private Constructors
+8.Destructors
+9.Garbage Collection in .NET
+10.Finalize vs Dispose
+11.Access Specifiers
+12.Encapsulation
+13.Abstraction
+14.Inheritance
+15.Types of Inheritance
+16.Inheritance in App Development
+17.IsA and HasA Relationship
+18.Generalization and Specialization
+19.Abstract Class & Abstract Methods
+20.Abstract Class Interview Q&A
+21.Abstract Classes in Application
+22.Interface in C#
+23.Interface Interview Q&A
+24.Interface Realtime Examples
+25.Multiple Inheritance
+26.Multiple Inheritance Realtime Example
+27.Polymorphism
+28.Method Overloading
+29.Operator Overloading
+30.Method Overriding
+31.Method Hiding
+32.Partial Class and Partial Methods
+33.Sealed Class and Sealed Methods
+34.Extension Methods
+35.Static Class
+36.Variable Reference and Instance of a Class
+
+For EACH topic:
+
+1. Create a folder with format:
+   "01_<TopicName>"
+
+2. Inside that folder, create two subfolders:
+   - "Explanation"
+   - "ConsoleApp"
+
+3. In "ConsoleApp":
+   - Create a C# Console Application project
+   - Add it to the main solution
+
+4. In "Explanation":
+   - Create README.md with:
+     - Concept explanation
+     - Real-world analogy
+     - Syntax
+     - Step-by-step explanation
+     - Best practices
+     - Common mistakes
+
+5. In the Console App:
+   - Write clean, beginner-friendly code
+   - Add comments
+   - Use #region blocks:
+        #region Explanation
+        #region Example
+        #region Output
+
+6. Ensure the project builds successfully.
+
+IMPORTANT EXECUTION RULE:
+
+- Work on ONLY ONE topic at a time.
+- After completing one topic, STOP.
+- Ask me: "Shall I proceed to the next topic?"
+- Wait for my confirmation before continuing.
+
+Goal:
+This should become a clean, structured, real-world level C# learning repository with both theory and practical implementation.
+
+CREATE 1 TO 10 WITHOUT ASKING TO ME

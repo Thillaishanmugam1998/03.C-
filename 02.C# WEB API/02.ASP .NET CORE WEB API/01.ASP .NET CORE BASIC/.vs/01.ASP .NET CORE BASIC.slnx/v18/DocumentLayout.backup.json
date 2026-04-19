@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1830CC-AFA5-FA0B-CF30-CB432A803638}|03.LESSION\\ProjectStructureSample\\ProjectStructureSample.csproj|d:\\01.thillai\\02.git repo\\03.c-\\02.c# web api\\02.asp .net core web api\\01.asp .net core basic\\03.lession\\projectstructuresample\\projectstructuresample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B1830CC-AFA5-FA0B-CF30-CB432A803638}|03.LESSION\\ProjectStructureSample\\ProjectStructureSample.csproj|solutionrelative:03.lession\\projectstructuresample\\projectstructuresample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB22B34-CF68-2CD6-4553-0B4CF9AFDD1A}|04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj|d:\\01.thillai\\02.git repo\\03.c-\\02.c# web api\\02.asp .net core web api\\01.asp .net core basic\\04.lession\\inprocesshostingsample\\inprocesshostingsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DB22B34-CF68-2CD6-4553-0B4CF9AFDD1A}|04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj|solutionrelative:04.lession\\inprocesshostingsample\\inprocesshostingsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB22B34-CF68-2CD6-4553-0B4CF9AFDD1A}|04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj|d:\\01.thillai\\02.git repo\\03.c-\\02.c# web api\\02.asp .net core web api\\01.asp .net core basic\\04.lession\\inprocesshostingsample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DB22B34-CF68-2CD6-4553-0B4CF9AFDD1A}|04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj|solutionrelative:04.lession\\inprocesshostingsample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB22B34-CF68-2CD6-4553-0B4CF9AFDD1A}|04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj|d:\\01.thillai\\02.git repo\\03.c-\\02.c# web api\\02.asp .net core web api\\01.asp .net core basic\\04.lession\\inprocesshostingsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB22B34-CF68-2CD6-4553-0B4CF9AFDD1A}|04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj|solutionrelative:04.lession\\inprocesshostingsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectStructureSample",
+              "DocumentMoniker": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\03.LESSION\\ProjectStructureSample\\ProjectStructureSample.csproj",
+              "RelativeDocumentMoniker": "03.LESSION\\ProjectStructureSample\\ProjectStructureSample.csproj",
+              "ToolTip": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\03.LESSION\\ProjectStructureSample\\ProjectStructureSample.csproj",
+              "RelativeToolTip": "03.LESSION\\ProjectStructureSample\\ProjectStructureSample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T11:50:15.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InProcessHostingSample",
+              "DocumentMoniker": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj",
+              "RelativeDocumentMoniker": "04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj",
+              "ToolTip": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj",
+              "RelativeToolTip": "04.LESSION\\InProcessHostingSample\\InProcessHostingSample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T11:50:08.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\04.LESSION\\InProcessHostingSample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "04.LESSION\\InProcessHostingSample\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\04.LESSION\\InProcessHostingSample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "04.LESSION\\InProcessHostingSample\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T11:50:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\04.LESSION\\InProcessHostingSample\\Program.cs",
+              "RelativeDocumentMoniker": "04.LESSION\\InProcessHostingSample\\Program.cs",
+              "ToolTip": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\02.C# WEB API\\02.ASP .NET CORE WEB API\\01.ASP .NET CORE BASIC\\04.LESSION\\InProcessHostingSample\\Program.cs",
+              "RelativeToolTip": "04.LESSION\\InProcessHostingSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:49:56.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

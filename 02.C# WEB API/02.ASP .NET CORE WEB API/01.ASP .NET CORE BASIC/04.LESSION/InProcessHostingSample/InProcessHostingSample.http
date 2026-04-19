@@ -1,0 +1,5 @@
+@InProcessHostingSample_HostAddress = http://localhost:5187
+
+### GET HOSTING INFO
+GET {{InProcessHostingSample_HostAddress}}/api/hostinginfo
+Accept: application/json

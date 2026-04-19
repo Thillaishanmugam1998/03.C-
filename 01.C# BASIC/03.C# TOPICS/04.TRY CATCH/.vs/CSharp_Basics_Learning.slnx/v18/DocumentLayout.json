@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\01.C# BASIC\\03.C# TOPICS\\04.TRY CATCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B3B725-DCB4-CFC0-27D9-8C7C974A358F}|01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\ExceptionHandlingInCSharpApp.csproj|d:\\01.thillai\\02.git repo\\03.c-\\01.c# basic\\03.c# topics\\04.try catch\\01_exception_handling_in_csharp\\consoleapp\\exceptionhandlingincsharpapp\\topics\\exceptionhandlingincsharptopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B3B725-DCB4-CFC0-27D9-8C7C974A358F}|01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\ExceptionHandlingInCSharpApp.csproj|solutionrelative:01_exception_handling_in_csharp\\consoleapp\\exceptionhandlingincsharpapp\\topics\\exceptionhandlingincsharptopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B3B725-DCB4-CFC0-27D9-8C7C974A358F}|01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\ExceptionHandlingInCSharpApp.csproj|d:\\01.thillai\\02.git repo\\03.c-\\01.c# basic\\03.c# topics\\04.try catch\\01_exception_handling_in_csharp\\consoleapp\\exceptionhandlingincsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B3B725-DCB4-CFC0-27D9-8C7C974A358F}|01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\ExceptionHandlingInCSharpApp.csproj|solutionrelative:01_exception_handling_in_csharp\\consoleapp\\exceptionhandlingincsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingInCSharpTopic.cs",
+              "DocumentMoniker": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\01.C# BASIC\\03.C# TOPICS\\04.TRY CATCH\\01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Topics\\ExceptionHandlingInCSharpTopic.cs",
+              "RelativeDocumentMoniker": "01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Topics\\ExceptionHandlingInCSharpTopic.cs",
+              "ToolTip": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\01.C# BASIC\\03.C# TOPICS\\04.TRY CATCH\\01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Topics\\ExceptionHandlingInCSharpTopic.cs",
+              "RelativeToolTip": "01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Topics\\ExceptionHandlingInCSharpTopic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:20:04.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\01.C# BASIC\\03.C# TOPICS\\04.TRY CATCH\\01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Program.cs",
+              "RelativeDocumentMoniker": "01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Program.cs",
+              "ToolTip": "D:\\01.THILLAI\\02.GIT REPO\\03.C-\\01.C# BASIC\\03.C# TOPICS\\04.TRY CATCH\\01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Program.cs",
+              "RelativeToolTip": "01_Exception_Handling_in_CSharp\\ConsoleApp\\ExceptionHandlingInCSharpApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:19:52.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

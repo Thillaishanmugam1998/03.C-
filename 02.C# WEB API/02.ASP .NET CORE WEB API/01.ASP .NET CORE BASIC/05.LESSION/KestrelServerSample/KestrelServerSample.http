@@ -1,0 +1,5 @@
+@KestrelServerSample_HostAddress = http://localhost:5254
+
+### GET KESTREL INFO
+GET {{KestrelServerSample_HostAddress}}/api/kestrelinfo
+Accept: application/json

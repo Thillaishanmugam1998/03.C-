@@ -1,0 +1,56 @@
+@HttpProtocolSample_HostAddress = http://localhost:5032
+
+### GET ALL BOOKS
+GET {{HttpProtocolSample_HostAddress}}/api/books
+Accept: application/json
+
+###
+
+### GET BOOK BY ID
+GET {{HttpProtocolSample_HostAddress}}/api/books/1
+Accept: application/json
+
+###
+
+### CREATE BOOK
+POST {{HttpProtocolSample_HostAddress}}/api/books
+Content-Type: application/json
+Accept: application/json
+
+{
+  "title": "REST API Guide",
+  "author": "Kumar",
+  "price": 700,
+  "category": "Web Development"
+}
+
+###
+
+### UPDATE BOOK
+PUT {{HttpProtocolSample_HostAddress}}/api/books/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "title": "C# Basics Updated",
+  "author": "Arun",
+  "price": 500,
+  "category": "Programming"
+}
+
+###
+
+### UPDATE BOOK PRICE
+PATCH {{HttpProtocolSample_HostAddress}}/api/books/1/price
+Content-Type: application/json
+Accept: application/json
+
+{
+  "price": 550
+}
+
+###
+
+### DELETE BOOK
+DELETE {{HttpProtocolSample_HostAddress}}/api/books/2
+Accept: application/json

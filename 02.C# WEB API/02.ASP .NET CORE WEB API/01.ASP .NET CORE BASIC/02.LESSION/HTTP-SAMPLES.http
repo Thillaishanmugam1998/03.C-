@@ -1,0 +1,53 @@
+### GET SAMPLE
+GET https://localhost:5001/api/students
+Accept: application/json
+
+###
+
+### GET BY ID SAMPLE
+GET https://localhost:5001/api/students/1
+Accept: application/json
+
+###
+
+### POST SAMPLE
+POST https://localhost:5001/api/students
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Kumar",
+  "email": "kumar@example.com",
+  "course": "C# Web API"
+}
+
+###
+
+### PUT SAMPLE
+PUT https://localhost:5001/api/students/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 1,
+  "name": "Kumar",
+  "email": "kumar@example.com",
+  "course": "ASP.NET Core Advanced"
+}
+
+###
+
+### PATCH SAMPLE
+PATCH https://localhost:5001/api/students/1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "course": "ASP.NET Core Advanced"
+}
+
+###
+
+### DELETE SAMPLE
+DELETE https://localhost:5001/api/students/1
+Accept: application/json

@@ -1,0 +1,82 @@
+I have a list of C# topics that I want to learn in a structured, project-based approach.
+
+First, create a new blank .NET solution with the name:
+"CSharp_Basics_Learning"
+
+Then, process the topics ONE BY ONE in sequence (do NOT generate everything at once).
+
+Here is the topic list:
+
+05 Events, Delegates & Lambda
+
+1. Course Structure Overview
+2. Roles of Events, Delegates & Event Handler
+3. Delegates in C#
+4. Multicast Delegates
+5. Delegates Real-Time Example
+6. Generic Delegates
+7. Anonymous Method
+8. Lambda Expressions
+9. Events in C#
+
+For EACH topic:
+
+1. Create a folder with format:
+   "01_<TopicName>"
+
+2. Inside that folder, create two subfolders:
+
+   * "Explanation"
+   * "ConsoleApp"
+
+3. In "ConsoleApp":
+
+   * Create a C# Console Application project
+   * Add it to the main solution
+
+4. In "Explanation":
+
+   * Create README.md with:
+
+     * Concept explanation
+     * Real-world analogy (MANDATORY)
+     * Comparison between real-world scenario and code implementation
+     * Syntax
+     * Step-by-step explanation
+     * Best practices
+     * Common mistakes
+
+5. In the Console App:
+
+   * Write clean, beginner-friendly code
+   * Add detailed comments
+   * Ensure examples are based on real-world scenarios (MANDATORY)
+   * Use #region blocks:
+     #region Explanation
+     #region RealWorldExample
+     #region CodeExample
+     #region Output
+
+6. Code Structure Rule (IMPORTANT):
+
+   * Keep Program.cs as the main entry point only
+   * Do NOT write all logic inside Program.cs
+   * Create separate class files for each concept
+   * Use meaningful names (e.g., DelegateExample.cs, EventPublisher.cs, Subscriber.cs, etc.)
+   * Follow clean code practices and separation of concerns
+
+7. Ensure the project builds and runs successfully.
+
+IMPORTANT EXECUTION RULE:
+
+* Work on ONLY ONE topic at a time
+* After completing one topic, STOP
+* Ask: "Shall I proceed to the next topic?"
+* Wait for user confirmation before continuing
+
+Goal:
+This should become a clean, structured, real-world level C# learning repository where:
+
+* Delegates, Events, and Lambdas are explained using real-world analogies (e.g., notification systems, button click events, callbacks)
+* Code examples clearly simulate real-world behavior
+* Concepts are easy to understand, practical, and interview-ready

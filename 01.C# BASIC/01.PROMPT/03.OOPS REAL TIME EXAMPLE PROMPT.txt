@@ -1,0 +1,78 @@
+I have a list of C# topics that I want to learn in a structured, project-based approach.
+
+First, create a new blank .NET solution with the name:
+"CSharp_Basics_Learning"
+
+Then, process the topics ONE BY ONE in sequence (do NOT generate everything at once).
+
+Here is the topic list:
+
+03 OOPs Real-Time Examples
+
+1. Encapsulation – Real-Time Examples
+2. Abstraction – Real-Time Examples
+3. Inheritance – Real-Time Examples
+4. Polymorphism – Real-Time Examples
+5. Interface – Real-Time Examples
+6. Abstract Class – Real-Time Examples
+
+For EACH topic:
+
+1. Create a folder with format:
+   "01_<TopicName>"
+
+2. Inside that folder, create two subfolders:
+
+   * "Explanation"
+   * "ConsoleApp"
+
+3. In "ConsoleApp":
+
+   * Create a C# Console Application project
+   * Add it to the main solution
+
+4. In "Explanation":
+
+   * Create README.md with:
+
+     * Concept explanation
+     * Real-world analogy (MANDATORY)
+     * Comparison between real-world scenario and code implementation
+     * Syntax
+     * Step-by-step explanation
+     * Best practices
+     * Common mistakes
+
+5. In the Console App:
+
+   * Write clean, beginner-friendly code
+   * Add detailed comments
+   * Ensure examples are based on real-world scenarios (MANDATORY)
+   * Use #region blocks:
+     #region Explanation
+     #region RealWorldExample
+     #region CodeExample
+     #region Output
+
+6. Code Structure Rule (IMPORTANT):
+
+   * Keep Program.cs as the main entry point only
+   * Do NOT write all logic inside Program.cs
+   * Create separate class files for each concept (e.g., EncapsulationExample.cs, Customer.cs, BankAccount.cs, etc.)
+   * Follow clean code practices and proper separation of concerns
+
+7. Ensure the project builds and runs successfully.
+
+IMPORTANT EXECUTION RULE:
+
+* Work on ONLY ONE topic at a time
+* After completing one topic, STOP
+* Ask: "Shall I proceed to the next topic?"
+* Wait for user confirmation before continuing
+
+Goal:
+This should become a clean, structured, real-world level C# learning repository where:
+
+* Every concept is explained using real-world analogies
+* Code examples directly map to real-world scenarios
+* Both theory and implementation are easy to understand and relatable

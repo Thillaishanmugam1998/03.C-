@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/01.LESSION/">
+    <Project Path="01.LESSION/WebApiIntroductionSample/WebApiIntroductionSample.csproj" />
+  </Folder>
+  <Folder Name="/02.LESSION/">
+    <Project Path="02.LESSION/HttpProtocolSample/HttpProtocolSample.csproj" />
+  </Folder>
+  <Folder Name="/03.LESSION/">
+    <Project Path="03.LESSION/ProjectStructureSample/ProjectStructureSample.csproj" />
+  </Folder>
+  <Folder Name="/04.LESSION/">
+    <Project Path="04.LESSION/InProcessHostingSample/InProcessHostingSample.csproj" />
+  </Folder>
+  <Folder Name="/05.LESSION/">
+    <Project Path="05.LESSION/KestrelServerSample/KestrelServerSample.csproj" />
+  </Folder>
+  <Folder Name="/06.LESSION/">
+    <Project Path="06.LESSION/OutOfProcessHostingSample/OutOfProcessHostingSample.csproj" />
+  </Folder>
+</Solution>

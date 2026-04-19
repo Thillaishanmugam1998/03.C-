@@ -1,0 +1,22 @@
+@WebApiIntroductionSample_HostAddress = http://localhost:5145
+
+GET {{WebApiIntroductionSample_HostAddress}}/api/students
+Accept: application/json
+
+###
+
+GET {{WebApiIntroductionSample_HostAddress}}/api/students/1
+Accept: application/json
+
+###
+
+POST {{WebApiIntroductionSample_HostAddress}}/api/students
+Content-Type: application/json
+
+{
+  "name": "Kumar",
+  "email": "kumar@example.com",
+  "course": "C# Web API"
+}
+
+###

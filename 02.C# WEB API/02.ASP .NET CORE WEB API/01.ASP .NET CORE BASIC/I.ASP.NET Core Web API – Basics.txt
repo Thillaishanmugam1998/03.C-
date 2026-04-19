@@ -1,0 +1,20 @@
+I.ASP.NET Core Web API – Basics:
+1)Introduction to ASP.NET Core Web API
+2)HTTP (HyperText Transport Protocol)
+
+3)Default ASP.NET Core Web API Files and Folders
+3)ASP.NET Core Web API Project File
+3)ASP.NET Core Web API Main Method
+3)Controllers in ASP.NET Core Web API
+3)Models in ASP.NET Core Web API
+3)Services in ASP.NET Core Web API
+3)ASP.NET Core Web API AppSettings.json file
+
+
+4)ASP.NET Core In-Process Hosting Model
+5)ASP.NET Core Kestrel Web Server
+6)ASP.NET Core Out of Process Hosting Model
+Hosting Model Interview Questions and Answers
+Dependency Injection in ASP.NET Core Web API
+Singleton vs Scoped vs Transient in ASP.NET Core Web API
+Swagger API in ASP.NET Core Web API

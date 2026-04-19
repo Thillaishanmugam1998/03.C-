@@ -1,0 +1,5 @@
+@OutOfProcessHostingSample_HostAddress = http://localhost:5207
+
+### GET HOSTING TYPE
+GET {{OutOfProcessHostingSample_HostAddress}}/api/hostingtype
+Accept: application/json

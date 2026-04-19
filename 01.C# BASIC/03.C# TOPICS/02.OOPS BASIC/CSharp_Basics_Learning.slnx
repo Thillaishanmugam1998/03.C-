@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/01_Object_Oriented_Programming/" />
+  <Folder Name="/01_Object_Oriented_Programming/ConsoleApp/">
+    <Project Path="01_Object_Oriented_Programming/ConsoleApp/ObjectOrientedProgrammingApp/ObjectOrientedProgrammingApp.csproj" />
+  </Folder>
+  <Folder Name="/02_Class_and_Objects/" />
+  <Folder Name="/02_Class_and_Objects/ConsoleApp/">
+    <Project Path="02_Class_and_Objects/ConsoleApp/ClassAndObjectsApp/ClassAndObjectsApp.csproj" />
+  </Folder>
+  <Folder Name="/03_Constructors/" />
+  <Folder Name="/03_Constructors/ConsoleApp/">
+    <Project Path="03_Constructors/ConsoleApp/ConstructorsApp/ConstructorsApp.csproj" />
+  </Folder>
+  <Folder Name="/04_Types_of_Constructors/" />
+  <Folder Name="/04_Types_of_Constructors/ConsoleApp/">
+    <Project Path="04_Types_of_Constructors/ConsoleApp/TypesOfConstructorsApp/TypesOfConstructorsApp.csproj" />
+  </Folder>
+  <Folder Name="/05_Why_We_Need_Constructors/" />
+  <Folder Name="/05_Why_We_Need_Constructors/ConsoleApp/">
+    <Project Path="05_Why_We_Need_Constructors/ConsoleApp/WhyWeNeedConstructorsApp/WhyWeNeedConstructorsApp.csproj" />
+  </Folder>
+  <Folder Name="/06_Static_vs_Non_Static_Constructors/" />
+  <Folder Name="/06_Static_vs_Non_Static_Constructors/ConsoleApp/">
+    <Project Path="06_Static_vs_Non_Static_Constructors/ConsoleApp/StaticVsNonStaticConstructorsApp/StaticVsNonStaticConstructorsApp.csproj" />
+  </Folder>
+  <Folder Name="/07_Private_Constructors/" />
+  <Folder Name="/07_Private_Constructors/ConsoleApp/">
+    <Project Path="07_Private_Constructors/ConsoleApp/PrivateConstructorsApp/PrivateConstructorsApp.csproj" />
+  </Folder>
+  <Folder Name="/08_Destructors/" />
+  <Folder Name="/08_Destructors/ConsoleApp/">
+    <Project Path="08_Destructors/ConsoleApp/DestructorsApp/DestructorsApp.csproj" />
+  </Folder>
+  <Folder Name="/09_Garbage_Collection_in_DotNet/" />
+  <Folder Name="/09_Garbage_Collection_in_DotNet/ConsoleApp/">
+    <Project Path="09_Garbage_Collection_in_DotNet/ConsoleApp/GarbageCollectionInDotNetApp/GarbageCollectionInDotNetApp.csproj" />
+  </Folder>
+  <Folder Name="/10_Finalize_vs_Dispose/" />
+  <Folder Name="/10_Finalize_vs_Dispose/ConsoleApp/">
+    <Project Path="10_Finalize_vs_Dispose/ConsoleApp/FinalizeVsDisposeApp/FinalizeVsDisposeApp.csproj" />
+  </Folder>
+</Solution>
