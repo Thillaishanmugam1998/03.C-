@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/01_CSharp_DotNet_Basics/" />
-  <Folder Name="/01_CSharp_DotNet_Basics/ConsoleApp/">
-    <Project Path="01_CSharp_DotNet_Basics/ConsoleApp/CSharpDotNetBasicsApp/CSharpDotNetBasicsApp.csproj" />
-  </Folder>
-</Solution>
